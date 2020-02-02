@@ -13,7 +13,7 @@ Penampakan Sistem :
 
 Menu Login
 
-![Tampilan Home](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/Sc01.png)
+![Tampilan Home](https://github.com/Arwinda/DINAS-PERTANIAN-ASAHAN-UAS-SOURCE2-16220073-16220074-16220093/blob/master/img/1.png)
 
 <br>
 <br>
