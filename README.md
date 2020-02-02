@@ -31,7 +31,7 @@ Data Tani
 <br>
 Report Penerimaan Benih
 
-![Peminjaman Arsip]((https://github.com/Arwinda/DINAS-PERTANIAN-ASAHAN-UAS-SOURCE2-16220073-16220074-16220093/blob/master/img/data_report.png))
+![Peminjaman Arsip](https://github.com/Arwinda/DINAS-PERTANIAN-ASAHAN-UAS-SOURCE2-16220073-16220074-16220093/blob/master/img/data_report.png)
 
 <br>
 <br>
