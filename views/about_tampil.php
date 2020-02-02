@@ -18,7 +18,7 @@
                           <div class="col-sm-8" align="center">
                             <br>
                         
-                          <h4> Nama Kelompok Kelas SI - 7C : </h4><br>
+                          <h4> Nama Kelompok Kelas Source-2 : </h4><br>
 
                          <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                         <thead>
